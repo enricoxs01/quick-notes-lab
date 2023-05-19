@@ -1,0 +1,28 @@
+.noteForm{
+    border: 2px solid black;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    min-width: 70em;
+    max-width: 100em;
+}
+
+.label{
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+}
+
+.textArea{
+    margin: 20px;
+    min-width: 50em;
+    min-height: 8em;
+}
+
+.button{
+    color: white;
+    background-color: grey;
+    max-width: 10%;
+    margin-left: 6em;
+    margin-bottom: 1em
+}
